@@ -1,0 +1,219 @@
+[
+  {
+    "No.": "01",
+    "Agent": "Brimstone",
+    "Role": "Controller",
+    "Origin": "United States",
+    "Release Patch": "Beta",
+    "Voice": "Steve Blum"
+  },
+  {
+    "No.": "02",
+    "Agent": "Viper",
+    "Role": "Controller",
+    "Origin": "United States",
+    "Release Patch": "Ashly Burch"
+  },
+  {
+    "No.": "03",
+    "Agent": "Omen",
+    "Role": "Controller",
+    "Origin": "Unknown",
+    "Release Patch": "Jason Marnocha"
+  },
+  {
+    "No.": "04",
+    "Agent": "Killjoy",
+    "Role": "Sentinel",
+    "Origin": "Germany",
+    "Release Patch": "1.05",
+    "Voice": "Eva Feiler"
+  },
+  {
+    "No.": "05",
+    "Agent": "Cypher",
+    "Role": "Sentinel",
+    "Origin": "Morocco",
+    "Release Patch": "Beta",
+    "Voice": "Nabil Elouahabi"
+  },
+  {
+    "No.": "06",
+    "Agent": "Sova",
+    "Role": "Initiator",
+    "Origin": "Russia",
+    "Release Patch": "Aaron Vodovoz"
+  },
+  {
+    "No.": "07",
+    "Agent": "Sage",
+    "Role": "Sentinel",
+    "Origin": "China",
+    "Release Patch": "Naomi Yang"
+  },
+  {
+    "No.": "09",
+    "Agent": "Phoenix",
+    "Role": "Duelist",
+    "Origin": "England",
+    "Release Patch": "Afolabi Alli"
+  },
+  {
+    "No.": "10",
+    "Agent": "Jett",
+    "Role": "Duelist",
+    "Origin": "South Korea",
+    "Release Patch": "Shannon Williams"
+  },
+  {
+    "No.": "11",
+    "Agent": "Reyna",
+    "Role": "Duelist",
+    "Origin": "Mexico",
+    "Release Patch": "1.0",
+    "Voice": "Karina Altamirano"
+  },
+  {
+    "No.": "12",
+    "Agent": "Raze",
+    "Role": "Duelist",
+    "Origin": "Brazil",
+    "Release Patch": "Beta",
+    "Voice": "Carolina Ravassa"
+  },
+  {
+    "No.": "13",
+    "Agent": "Breach",
+    "Role": "Initiator",
+    "Origin": "Sweden",
+    "Release Patch": "David Menkin"
+  },
+  {
+    "No.": "14",
+    "Agent": "Skye",
+    "Role": "Initiator",
+    "Origin": "Australia",
+    "Release Patch": "1.11",
+    "Voice": "Miranda O'Hare"
+  },
+  {
+    "No.": "15",
+    "Agent": "Yoru",
+    "Role": "Duelist",
+    "Origin": "Japan",
+    "Release Patch": "2.0",
+    "Voice": "Daisuke Takahashi"
+  },
+  {
+    "No.": "16",
+    "Agent": "Astra",
+    "Role": "Controller",
+    "Origin": "Ghana",
+    "Release Patch": "2.04",
+    "Voice": "Effie Nkrumah"
+  },
+  {
+    "No.": "17",
+    "Agent": "KAY/O",
+    "Role": "Initiator",
+    "Origin": "Alternate Timeline Earth",
+    "Release Patch": "3.0",
+    "Voice": "Gabe Kunda"
+  },
+  {
+    "No.": "18",
+    "Agent": "Chamber",
+    "Role": "Sentinel",
+    "Origin": "France",
+    "Release Patch": "3.10",
+    "Voice": "Hugo Pierre Martin"
+  },
+  {
+    "No.": "19",
+    "Agent": "Neon",
+    "Role": "Duelist",
+    "Origin": "Philippines",
+    "Release Patch": "4.0",
+    "Voice": "Vanille Velasquez"
+  },
+  {
+    "No.": "20",
+    "Agent": "Fade",
+    "Role": "Initiator",
+    "Origin": "Türkiye",
+    "Release Patch": "4.08",
+    "Voice": "Selin Çuhadaroğlu"
+  },
+  {
+    "No.": "21",
+    "Agent": "Harbor",
+    "Role": "Controller",
+    "Origin": "India",
+    "Release Patch": "5.08",
+    "Voice": "Sunil Malhotra"
+  },
+  {
+    "No.": "22",
+    "Agent": "Gekko",
+    "Role": "Initiator",
+    "Origin": "United States",
+    "Release Patch": "6.04",
+    "Voice": "Alejandro Antonio Ruiz (With creature voices from Jan Johns, Kellen Goff, and Paul Guyet)"
+  },
+  {
+    "No.": "23",
+    "Agent": "Deadlock",
+    "Role": "Sentinel",
+    "Origin": "Norway",
+    "Release Patch": "7.0",
+    "Voice": "Nora Gjestvang"
+  },
+  {
+    "No.": "24",
+    "Agent": "Iso",
+    "Role": "Duelist",
+    "Origin": "China",
+    "Release Patch": "7.09",
+    "Voice": "Unknown"
+  },
+  {
+    "No.": "25",
+    "Agent": "Clove",
+    "Role": "Controller",
+    "Origin": "Scotland",
+    "Release Patch": "8.05",
+    "Voice": "Isla Campbell"
+  },
+  {
+    "No.": "26",
+    "Agent": "Vyse",
+    "Role": "Sentinel",
+    "Origin": "Unknown",
+    "Release Patch": "9.04",
+    "Voice": "Marta Svetek"
+  },
+  {
+    "No.": "27",
+    "Agent": "Tejo",
+    "Role": "Initiator",
+    "Origin": "Colombia",
+    "Release Patch": "10.00",
+    "Voice": "Victor Turpin"
+  },
+  {
+    "No.": "28",
+    "Agent": "Waylay",
+    "Role": "Duelist",
+    "Origin": "Thailand",
+    "Release Patch": "10.04",
+    "Voice": "Mo Rodvanich"
+  },
+  {
+    "No.": "29",
+    "Agent": "Veto",
+    "Role": "Sentinel",
+    "Origin": "Senegal",
+    "Release Patch": "11.07b",
+    "Voice": "Bamar Kane"
+  }
+]
