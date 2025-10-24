@@ -38,13 +38,17 @@ async def random_agent(interaction: discord.Interaction):
 @bot.tree.command(name="rank_checker", description="show rank of chosen player")
 @app_commands.describe(riot_id="input Riot ID")
 async def valo_rank(interaction: discord.Interaction, riot_id: str):
+    embed = discord.Embed(title="Rank information:")
     hash_pos = riot_id.find("#")
     riot_name = riot_id[:hash_pos]
     riot_tag = riot_id[hash_pos + 1:]
-    input_mmr = None
-    input_mmr = await get_mmr_details_by_name_v2_async(version="v2", region="eu", name=f"{riot_name}", tag=f"{riot_tag}")
-    if input_mmr:
-        await interaction.response.send_message(f"{riot_id}'s rank is: {input_mmr.current_data.currenttierpatched}")
+    input_rank = None
+    input_rank = await get_mmr_details_by_name_v2_async(version="v2", region="eu", name=f"{riot_name}", tag=f"{riot_tag}")
+    embed.add_field(name="Rank: ", value=input_rank.current_data.currenttierpatched, inline="False")
+    embed.add_field(name="RR: ", value=input_rank.current_data.ranking_in_tier, inline="False")
+    embed.add_field(name="Last Match RR: ", value=input_rank.current_data.mmr_change_to_last_game, inline="False")
+    if input_rank:
+        await interaction.response.send_message(embed=embed)
 
 @bot.tree.command(name="level_checker", description="show level of chosen player")
 @app_commands.describe(riot_id="input Riot ID")
